@@ -1,1 +1,2 @@
-# HR_Analytics_dashboard
+Project: HR_Analytics_dashboard
+Project Objective: Created interactive dashboard to track and analyzed online sales data. Used complex parameters to drill down in worksheet and customization using filters and slicers. Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations. Used different types of customized Visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, Line chart, area chart, map, slicers, etc).
